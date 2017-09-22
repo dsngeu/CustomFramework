@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/dsngeu/CustomFramework'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'dsngeu' => 'gopoint@prodege.com' }
-  s.source       =    { :http => 'https://github.com/dsngeu/CustomFramework.git', :tag -> s.version.to_s }
+  s.source       =    { :git => 'https://github.com/dsngeu/CustomFramework.git', :tag => s.version.to_s }
 
   
   s.ios.deployment_target = '8.0'
