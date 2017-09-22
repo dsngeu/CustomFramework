@@ -6,9 +6,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/dsngeu/CustomFramework'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'dsngeu' => 'gopoint@prodege.com' }
-#  s.source           = { :git => 'https://github.com/dsngeu/CustomFramework', :tag => s.version.to_s }
-
-  s.source       = { :git => "https://github.com/dsngeu/CustomFramework.git", :branch => "origin",
+  s.source       = { :git => "http://203.123.36.134/swagbucks_deepak/SwagbucksAdSDK.framework.zip", :branch => "origin",
                    :tag => s.version.to_s }
   
   
