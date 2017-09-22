@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/dsngeu/CustomFramework'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'dsngeu' => 'gopoint@prodege.com' }
-  s.source       =    { :http => 'http://203.123.36.134/swagbucks_deepak/SwagbucksAdSDK.framework.zip' }
+  s.source       =    { :http => 'https://github.com/dsngeu/CustomFramework.git' }
 
   
   s.ios.deployment_target = '8.0'
