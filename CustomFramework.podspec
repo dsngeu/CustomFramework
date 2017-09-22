@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.author           = { 'dsngeu' => 'gopoint@prodege.com' }
 #  s.source           = { :git => 'https://github.com/dsngeu/CustomFramework', :tag => s.version.to_s }
 
-  s.source       = { :git => "https://github.com/dsngeu/CustomFramework.git", :branch => "master",
+  s.source       = { :git => "https://github.com/dsngeu/CustomFramework.git", :branch => "origin",
                    :tag => s.version.to_s }
   
   
