@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.source       =    { :git => 'http://203.123.36.134/swagbucks_deepak/SwagbucksAdSDK.framework.zip', :tag => s.version.to_s }
 
   
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '9.0'
   s.ios.vendored_frameworks = 'CustomFramework.framework'
   s.frameworks = 'UIKit', 'MapKit'
 
