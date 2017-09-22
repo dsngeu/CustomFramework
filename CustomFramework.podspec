@@ -10,8 +10,6 @@ Pod::Spec.new do |s|
 
   
   s.ios.deployment_target = '8.0'
-
-  s.source_files = 'CustomFramework/Classes/**/*'
   s.frameworks = 'UIKit', 'MapKit'
 
 end
