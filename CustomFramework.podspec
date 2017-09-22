@@ -10,6 +10,7 @@ Pod::Spec.new do |s|
 
   
   s.ios.deployment_target = '8.0'
+  s.ios.vendored_frameworks = 'CustomFramework.framework'
   s.frameworks = 'UIKit', 'MapKit'
 
 end
