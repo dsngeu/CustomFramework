@@ -1,0 +1,22 @@
+{
+  "name": "CustomFramework",
+  "version": "0.1.0",
+  "summary": "A short description of CustomFramework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/dsngeu/CustomFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dsngeu": "gopoint@prodege.com"
+  },
+  "source": {
+    "git": "https://github.com/dsngeu/CustomFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CustomFramework/Classes/**/*"
+}
